@@ -7,7 +7,7 @@
 ![image](files/选区_044.png)
 ## 3.	改进的系统在KITTI公共数据集下的动态物体剔除效果
 ### 3.1 lidar点云语义判断
-![image](https://github.com/goergehu/show-some-works/blob/main/files/%E7%82%B9%E4%BA%91%E8%AF%AD%E4%B9%89.gif)
+![image](https://github.com/goergehu/show-some-works/blob/main/files/out4.gif)
 ### 3.2 动态点剔除
 ![image](https://github.com/goergehu/show-some-works/blob/main/files/%E5%8A%A8%E6%80%81%E7%82%B9%E6%A3%80%E6%B5%8B.gif)
 ### 3.3 动态点剔除（加粗的点）
