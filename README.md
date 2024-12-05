@@ -2,6 +2,8 @@
 
 ## 1.	改进的系统在KITTI公共数据集下的建图效果
 ![image](files/地图.png)
+## 2. 使用图片给点云着色
+![image](files/colorMap.gif)
 ## 2.	改进的系统在UrbanHK公共数据集下的动态物体剔除效果（白色为动态点）
 ![image](files/选区_043.png)
 ![image](files/选区_044.png)
